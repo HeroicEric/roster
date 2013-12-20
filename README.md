@@ -2,4 +2,4 @@
 
 ## ERD
 
-![ERD Diagram]('erd.png')
+![ERD Diagram](erd.png)
